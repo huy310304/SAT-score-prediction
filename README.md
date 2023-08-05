@@ -1,7 +1,5 @@
 # SAT-score-prediction
 
-# Project Name
-
 Short project description or tagline.
 
 ## Table of Contents
