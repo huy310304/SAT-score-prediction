@@ -54,11 +54,14 @@ Before you begin, ensure you have met the following requirements:
 
 ### `regression`: regression models with multiple data preprocessing techniques
 
-### `SAT_score_scratch`: original neural network framework constructed using Numpy library
+### `SAT_score_scratch`: original neural network framework constructed using NumPy library
 
 
-## Discissions
+## Results
 ...
+
+![Image Alt Text](image.png)
+
 
 
 ## Sources/Citations
