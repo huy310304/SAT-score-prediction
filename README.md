@@ -60,7 +60,7 @@ Before you begin, ensure you have met the following requirements:
 ## Results
 ...
 
-![Image Alt Text](image.png)
+![Image Alt Text](plotting_results/sat_classification_pca_plot.png)
 
 
 
