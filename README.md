@@ -29,12 +29,18 @@ SAT_score prediction project using raw neural networks constructed using Numpy a
 
 - **Reduce Learning Rate:** Implemented a learning rate scheduler to gradually reduce the learning rate during training, improving convergence and final performance.
 
+- **Data Randomization and Generation:** Generated synthetic data and introduced randomization techniques to enhance model robustness and generalization.
+
 - **Visualizations:** Created informative visualizations of training and validation metrics to analyze the model's performance.
 
 
 ## Prequisites
 
-Provide step-by-step instructions for users to set up and run your project locally. Include prerequisites, installation steps, and any configuration required. You can also link to detailed setup guides if available.
+Before you begin, ensure you have met the following requirements:
+
+- Python 3.6 or later installed
+- Required Python packages listed in `requirements.txt`
+- csv files listed in `data`
 
 ## Content
 ...
