@@ -8,12 +8,13 @@ SAT score prediction model using PyTorch
 - [Features](#features)
 - [Prequisites](#prequisites)
 - [Content](#content)
+- [Results](#results)
 - [Sources](#sources)
 
 
 ## Overview
 
-Provide a brief introduction to your project. Explain what it does, why it's useful, and any unique features or benefits it offers.
+SAT_score prediction project using raw neural networks constructed using Numpy and PyTorch with both regression and classification methods. 
 
 ## Features
 
@@ -29,6 +30,11 @@ Provide step-by-step instructions for users to set up and run your project local
 
 ## Content
 ...
+
+
+## Discissions
+...
+
 
 ## Sources/Citations
 ....
