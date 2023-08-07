@@ -58,11 +58,16 @@ Before you begin, ensure you have met the following requirements:
 
 
 ## Results
-...
 
 ![Plot of Original PyTorch model](plotting_results/sat_regression_frame_plot.png)
+
+- Initial model shows an accuracy of 60% with a convergence time of 30 epochs.
+
+![Plot of Final PyTorch model](plotting_results/sat_regression_final_plot.png)
+
+- After applying optimization techniques, the model achieves an accuracy of 90% with less convergence time of around 5-10 epochs.
 
 
 
 ## Sources/Citations
-- The framework in `SAT_score_scratch` is adapted from the Bike Sharing Project by Udacity - [BikeSharing_Project](https://github.com/udacity/deep-learning-v2-pytorch/tree/c9404fc86181fc3f0906b368697268257f348535/project-bikesharing)
+- The framework in `SAT_score_scratch` is adapted from the [BikeSharing_Project](https://github.com/udacity/deep-learning-v2-pytorch/tree/c9404fc86181fc3f0906b368697268257f348535/project-bikesharing) by Udacity
