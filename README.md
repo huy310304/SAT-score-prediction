@@ -59,17 +59,14 @@ Before you begin, ensure you have met the following requirements:
 
 ## Results
 
-All runs are performed with 200 epochs.  
-Training loss, Validation loss, Accuracy, and Time are recorded and plotted for each model as below.  
-
-<img src="plotting_results/original_model_plot.png" alt="Plot of Original PyTorch Model" width="400"/>
-
-- Initial model shows an accuracy of 60% with 30-epochs convergence.
-
-<img src="plotting_results/optimized_model_plot.png" alt="Plot of Optimized PyTorch Model" width="400"/>
+- All runs are performed with 200 epochs.  
+- Training loss, Validation loss, Accuracy, and Time are recorded and plotted for each model as below.  
+- The initial model shows an accuracy of 65% with 30-epochs convergence.  
+<img src="plotting_results/sat_regression_frame_plot.png" alt="Plot of Original PyTorch Model" width="500"/>
 
 - After applying optimization techniques, the model achieves an accuracy of 90% with less convergence time of around 5-10 epochs.
-
+- Although the time for individual epochs is larger, this can be modified by increasing the batch_size, which may lead to a little longer convergence time.
+<img src="plotting_results/sat_regression_final_plot.png" alt="Plot of Optimized PyTorch Model" width="500"/>
 
 
 
