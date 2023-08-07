@@ -6,8 +6,9 @@ SAT score prediction model using PyTorch
 
 - [Overview](#overview)
 - [Features](#features)
+- [Prequisites](#prequisites)
 - [Content](#content)
-- [Sources](#sourcess)
+- [Sources/Citations](#sources/citations)
 
 
 ## Overview
@@ -22,12 +23,12 @@ List the key features and functionalities of your project. Use bullet points for
 - Feature 2: Description of feature.
 - ...
 
-## Getting Started
+## Prequisites
 
 Provide step-by-step instructions for users to set up and run your project locally. Include prerequisites, installation steps, and any configuration required. You can also link to detailed setup guides if available.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+## Content
+...
 
+## Sources/Citations
+....
