@@ -1,6 +1,6 @@
 # SAT-score-prediction
 
-SAT prediction model using PyTorch
+SAT score prediction model using PyTorch
 
 ## Table of Contents
 
