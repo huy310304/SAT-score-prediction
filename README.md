@@ -62,4 +62,4 @@ Before you begin, ensure you have met the following requirements:
 
 
 ## Sources/Citations
-....
+- The framework in `SAT_score_scratch` is adapted from is the Bike Sharing Project by Udacity - https://github.com/udacity/deep-learning-v2-pytorch/tree/c9404fc86181fc3f0906b368697268257f348535/project-bikesharing
