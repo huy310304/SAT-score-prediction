@@ -60,9 +60,9 @@ Before you begin, ensure you have met the following requirements:
 ## Results
 ...
 
-![Image Alt Text](plotting_results/sat_classification_pca_plot.png)
+![Plot of Original PyTorch model](plotting_results/sat_regression_frame_plot.png)
 
 
 
 ## Sources/Citations
-- The framework in `SAT_score_scratch` is adapted from is the Bike Sharing Project by Udacity - https://github.com/udacity/deep-learning-v2-pytorch/tree/c9404fc86181fc3f0906b368697268257f348535/project-bikesharing
+- The framework in `SAT_score_scratch` is adapted from the Bike Sharing Project by Udacity - [BikeSharing_Project](https://github.com/udacity/deep-learning-v2-pytorch/tree/c9404fc86181fc3f0906b368697268257f348535/project-bikesharing)
