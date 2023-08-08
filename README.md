@@ -8,7 +8,7 @@ SAT score prediction model using PyTorch
 - [Features](#features)
 - [Prequisites](#prequisites)
 - [Content](#content)
-- [Results Discussion](#results%20discussion)
+- [Results Discussion](#results-discussion)
 - [Sources](#sources)
 
 
