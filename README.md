@@ -31,6 +31,8 @@ SAT_score prediction project using raw neural networks constructed using Numpy a
 
 - **Data Randomization and Generation:** Generated synthetic data and introduced randomization techniques to enhance model robustness and generalization, and prevent overfitting.
 
+- **Evaluation:** Using R-Squared value and MAE error to evaluate the accuracy of the model over a set of 10% test data.
+
 - **Visualizations:** Created informative plotting visualizations of training and validation metrics to analyze the model's performance.
 
 - **Demo:** Created a CLI demo of predicting the SAT score by typing in user's inputs.  
