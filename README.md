@@ -8,7 +8,7 @@ SAT score prediction model using PyTorch
 - [Features](#features)
 - [Prequisites](#prequisites)
 - [Content](#content)
-- [Results](#results)
+- [Results Discussion](#results_discussion)
 - [Sources](#sources)
 
 
@@ -58,7 +58,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### `regression`: regression models with multiple data preprocessing techniques
 
-## Results
+## Results_Discussion
 
 In the pursuit of predicting SAT scores based on GPA and other factors, rigorous experimentation and analysis were conducted. All model runs were performed with a consistent training setup of 200 epochs, capturing valuable insights into the convergence, accuracy, and performance over time.
 
