@@ -68,14 +68,8 @@ Before you begin, ensure you have met the following requirements:
 - Although the time for individual epochs is larger, this can be modified by increasing the batch_size, which may lead to a little longer convergence time.  
 <img src="plotting_results/sat_regression_final_plot.png" width="500"/>
 
-- Binary_splitting and PCA were also used as additional data-preprocessing techniques and they show almost the same accuracy and loss over time as the optimized model.  
-  <img src="plotting_results/sat_regression_binaryspliting_plot.png" width="400"/> <img src="plotting_results/sat_regression_binary_pca.png" width="400"/>
-
-
-
-
-
-
+Binary_splitting and PCA were also used as additional data-preprocessing techniques and they show almost the same accuracy and loss over time as the optimized model.  
+<img src="plotting_results/sat_regression_binaryspliting_plot.png" width="400"/> <img src="plotting_results/sat_regression_binary_pca.png" width="400"/>
 
 ## Sources
 - The framework in `SAT_score_scratch` is adapted from the [BikeSharing_Project](https://github.com/udacity/deep-learning-v2-pytorch/tree/c9404fc86181fc3f0906b368697268257f348535/project-bikesharing) by Udacity
