@@ -61,22 +61,19 @@ Before you begin, ensure you have met the following requirements:
 
 - All runs are performed with 200 epochs.  
 - Training loss, Validation loss, Accuracy, and Time are recorded and plotted for each model as below.  
-- The initial model shows an accuracy of 65% with 30-epochs convergence.  
-<img src="plotting_results/sat_regression_frame_plot.png" alt="Plot of Original PyTorch Model" width="500"/>
+- The initial model shows an accuracy of 65% with 30-epochs convergence.
+<img src="plotting_results/sat_regression_frame_plot.png" width="500"/>
 
-- After applying optimization techniques, the model achieves an accuracy of 90% with less convergence time of around 5-10 epochs.
-- Although the time for individual epochs is larger, this can be modified by increasing the batch_size, which may lead to a little longer convergence time.
-<img src="plotting_results/sat_regression_final_plot.png" alt="Plot of Optimized PyTorch Model" width="500"/>
+- After applying optimization techniques, the model achieves an accuracy of 90% with less convergence time of around 5-10 epochs.  
+- Although the time for individual epochs is larger, this can be modified by increasing the batch_size, which may lead to a little longer convergence time.  
+<img src="plotting_results/sat_regression_final_plot.png" width="500"/>
 
 - Binary_splitting and PCA were also used as additional data-preprocessing techniques and they show almost the same accuracy and loss over time as the optimized model.  
-<div style="display: flex;">
-  <div style="flex: 50%; padding: 10px;">
-    <img src="plotting_results/sat_regression_binaryspliting_plot.png" alt="Plot of Original PyTorch Model" width="100%">
-  </div>
-  <div style="flex: 50%; padding: 10px;">
-    <img src="plotting_results/sat_regression_binary_pca.png" alt="Plot of Optimized PyTorch Model" width="100%">
-  </div>
-</div>
+  <img src="plotting_results/sat_regression_binaryspliting_plot.png" width="400"/> <img src="plotting_results/sat_regression_binary_pca.png" width="400"/>
+
+
+
+
 
 
 
