@@ -33,9 +33,9 @@ SAT_score prediction project using raw neural networks constructed using Numpy a
 
 - **Evaluation:** Using R-Squared value and MAE error to evaluate the accuracy of the model over a set of 10% test data.
 
-- **Visualizations:** Created informative plotting visualizations of training and validation metrics to analyze the model's performance.
+- **Visualization:** Created informative plotting visualizations of training and validation metrics to analyze the model's performance.
 
-- **Demo:** Created a CLI demo of predicting the SAT score by typing in user's inputs.  
+- **User Demo:** Created a CLI demo of predicting the SAT score by taking in user's inputs.  
 
 
 ## Prequisites
