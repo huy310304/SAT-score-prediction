@@ -49,12 +49,12 @@ Before you begin, ensure you have met the following requirements:
 - GPA_Small.csv: contains the original CSV file.
 - GPA_dummies.csv: generative data used to prevent overfitting.
 - GPA_Big.csv: final data file with multiple generative data combined with original data.
+
+### `SAT_score_scratch`: original neural network framework constructed using NumPy library
   
 ### `classification`: classification models dividing SAT score into 12 brackets of range 100
 
 ### `regression`: regression models with multiple data preprocessing techniques
-
-### `SAT_score_scratch`: original neural network framework constructed using NumPy library
 
 
 ## Results
