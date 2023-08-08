@@ -69,7 +69,8 @@ Before you begin, ensure you have met the following requirements:
 <img src="plotting_results/sat_regression_final_plot.png" alt="Plot of Optimized PyTorch Model" width="500"/>
 
 - Binary_splitting and PCA were also used as additional data-preprocessing techniques and they show almost the same accuracy and loss over time as the optimized model.  
-<img src="plotting_results/sat_regression_binaryspliting_plot.png" alt="Plot of Optimized PyTorch Model" width="500"/> <img src="plotting_results/sat_regression_binary_pca.png" alt="Plot of Optimized PyTorch Model" width="500"/>
+<img src="plotting_results/sat_regression_binaryspliting_plot.png" alt="Plot of Optimized PyTorch Model" width="500" style="display:inline-block; margin-right:20px;"/>
+<img src="plotting_results/sat_regression_binary_pca.png" alt="Plot of Optimized PyTorch Model" width="500" style="display:inline-block;"/>
 
 
 
