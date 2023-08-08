@@ -16,6 +16,7 @@ SAT score prediction model using PyTorch
 
 SAT_score prediction project using raw neural networks constructed using Numpy and PyTorch with both regression and classification methods. This project aims to predict SAT scores based on GPA and other factors using a machine learning model built with the PyTorch framework. The model utilizes a neural network architecture to make accurate predictions and has been fine-tuned to achieve high accuracy and fast convergence.
 
+
 ## Features
 - **PyTorch Neural Network:** Developed a multi-layers neural network architecture using PyTorch for SAT score prediction.
 
@@ -46,6 +47,7 @@ Before you begin, ensure you have met the following requirements:
 - Required Python packages listed in `requirements.txt`
 - CSV files listed in `data`
 
+
 ## Content
 ### `data`: contains CSV files for training inputs
 - GPA_Small.csv: contains the original CSV file.
@@ -57,6 +59,7 @@ Before you begin, ensure you have met the following requirements:
 ### `classification`: classification models dividing SAT score into 12 brackets of range 100
 
 ### `regression`: regression models with multiple data preprocessing techniques
+
 
 ## Results Discussion
 
@@ -99,6 +102,7 @@ Principal Component Analysis (PCA) was utilized to reduce the feature space to t
 Both binary splitting and PCA exhibited comparable accuracy and loss trends over time when contrasted against the final optimized model. This consistency underscores the robustness of the model's predictions and the efficacy of the chosen preprocessing strategies.
 
 The culmination of these efforts and techniques underscores the advancement achieved in predicting SAT scores. By diligently refining the model architecture, leveraging sophisticated data preprocessing, and implementing optimization strategies, the project attains a level of accuracy and efficiency that is poised to yield meaningful insights in educational evaluation and assessment.
+
 
 ## Sources
 - The framework in `SAT_score_scratch` is adapted from the [BikeSharing_Project](https://github.com/udacity/deep-learning-v2-pytorch/tree/c9404fc86181fc3f0906b368697268257f348535/project-bikesharing) by Udacity
