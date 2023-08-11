@@ -119,7 +119,7 @@ To mitigate the overfitting observed in the previous classification model, the P
 
 Despite utilizing classification techniques and PyTorch's capabilities, it became evident that data generation plays a pivotal role in enhancing model accuracy. The classification approach, in this case, did not yield the desired results.
 
-<img src="plotting_results/sat_classification_pca.png" width="600"/>
+<img src="plotting_results/sat_classification_pca_plot.png" width="600"/>
 
 ### Conclusion
 
