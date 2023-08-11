@@ -105,6 +105,23 @@ Both binary splitting and PCA exhibited comparable accuracy and loss trends over
 
 The culmination of these efforts and techniques underscores the advancement achieved in predicting SAT scores. By diligently refining the model architecture, leveraging sophisticated data preprocessing, and implementing optimization strategies, the project attains a level of accuracy and efficiency that is poised to yield meaningful insights in educational evaluation and assessment.
 
+### Classification
+
+#### Classification with Binary Splitting
+
+In an attempt to classify SAT scores into 12 brackets using the binary splitting technique, a model was trained and evaluated. The results, as illustrated in the plot below, demonstrate a general improvement in accuracy over time. However, concerns arise regarding overfitting as the validation loss steadily increases.
+
+<img src="plotting_results/sat_classification_plot.png" width="600"/>
+
+#### Classification with Binary Splitting and PCA
+
+To mitigate the overfitting observed in the previous classification model, the PCA technique was applied in combination with binary splitting. While overfitting was reduced, the accuracy remained relatively constant, hovering around 60%.
+
+Despite utilizing classification techniques and PyTorch's capabilities, it became evident that data generation plays a pivotal role in enhancing model accuracy. The classification approach, in this case, did not yield the desired results.
+
+### Conclusion
+
+The combination of regression and classification approaches, along with rigorous model optimization and preprocessing techniques, showcases the project's progress in predicting SAT scores. The achievements and insights gained underline the potential impact of these models in educational evaluation and assessment, while also highlighting the challenges associated with certain classification tasks.
 
 ## Sources
 - The framework in `SAT_score_scratch` is adapted from the [BikeSharing_Project](https://github.com/udacity/deep-learning-v2-pytorch/tree/c9404fc86181fc3f0906b368697268257f348535/project-bikesharing) by Udacity
