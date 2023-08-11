@@ -65,7 +65,7 @@ Before you begin, ensure you have met the following requirements:
 
 In the pursuit of predicting SAT scores based on GPA and other factors, rigorous experimentation and analysis were conducted. All model runs were performed with a consistent training setup of 200 epochs, capturing valuable insights into the convergence, accuracy, and performance over time.
 
-### Regression
+### Regression Models
 
 #### Initial Model Exploration
 
@@ -105,7 +105,7 @@ Both binary splitting and PCA exhibited comparable accuracy and loss trends over
 
 The culmination of these efforts and techniques underscores the advancement achieved in predicting SAT scores. By diligently refining the model architecture, leveraging sophisticated data preprocessing, and implementing optimization strategies, the project attains a level of accuracy and efficiency that is poised to yield meaningful insights in educational evaluation and assessment.
 
-### Classification
+### Classification Models
 
 #### Classification with Binary Splitting
 
