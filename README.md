@@ -65,7 +65,9 @@ Before you begin, ensure you have met the following requirements:
 
 In the pursuit of predicting SAT scores based on GPA and other factors, rigorous experimentation and analysis were conducted. All model runs were performed with a consistent training setup of 200 epochs, capturing valuable insights into the convergence, accuracy, and performance over time.
 
-### Initial Model Exploration
+### Regression
+
+#### Initial Model Exploration
 
 The initial phase of the project involved training a neural network model from scratch. The results of this exploration are illustrated in the following plot:
 
@@ -73,7 +75,7 @@ The initial phase of the project involved training a neural network model from s
 
 The initial model exhibited promising potential, achieving an accuracy of 65% after 30 epochs of training. This marked the foundation on which subsequent optimizations and enhancements were built.
 
-### Optimized Model Achievement
+#### Optimized Model Achievement
 
 Building upon the insights gained from the initial model, an iterative process of fine-tuning and optimization was embarked upon. By meticulously applying advanced activation functions, dropout regularization, and learning rate reduction strategies, the model's accuracy and convergence were substantially improved. The optimized model's performance is demonstrated below:
 
@@ -83,7 +85,7 @@ Notably, the optimized model achieved a remarkable accuracy of 90%, showcasing t
 
 It's important to acknowledge that while individual epoch times were extended due to increased complexity, this aspect can be modulated by adjusting the batch size. Increasing the batch size offers an avenue to expedite convergence while maintaining the model's enhanced accuracy.
 
-### Additional Data Preprocessing Techniques
+#### Additional Data Preprocessing Techniques
 
 Beyond the model architecture, data preprocessing also played a pivotal role in refining prediction accuracy. Two distinct techniques were integrated into the pipeline to further enhance results:
 
