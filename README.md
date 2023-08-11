@@ -119,6 +119,8 @@ To mitigate the overfitting observed in the previous classification model, the P
 
 Despite utilizing classification techniques and PyTorch's capabilities, it became evident that data generation plays a pivotal role in enhancing model accuracy. The classification approach, in this case, did not yield the desired results.
 
+<img src="plotting_results/sat_classification_pca.png" width="600"/>
+
 ### Conclusion
 
 The combination of regression and classification approaches, along with rigorous model optimization and preprocessing techniques, showcases the project's progress in predicting SAT scores. The achievements and insights gained underline the potential impact of these models in educational evaluation and assessment, while also highlighting the challenges associated with certain classification tasks.
