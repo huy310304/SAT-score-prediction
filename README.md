@@ -1,7 +1,5 @@
 # SAT Score Prediction Project
 
-SAT score prediction model using PyTorch
-
 ## Table of Contents
 
 - [Overview](#overview)
