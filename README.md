@@ -1,4 +1,4 @@
-# SAT-score-prediction
+# SAT Score Prediction Project
 
 SAT score prediction model using PyTorch
 
