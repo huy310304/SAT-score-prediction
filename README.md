@@ -115,9 +115,9 @@ In an attempt to classify SAT scores into 12 brackets using the binary splitting
 
 To mitigate the overfitting observed in the previous classification model, the PCA technique was applied in combination with binary splitting. While overfitting was reduced, the accuracy remained relatively constant, hovering around 60%.
 
-Despite utilizing classification techniques and PyTorch's capabilities, it became evident that data generation plays a pivotal role in enhancing model accuracy. The classification approach, in this case, did not yield the desired results.
-
 <img src="plotting_results/sat_classification_pca_plot.png" width="600"/>
+
+Despite utilizing classification techniques and PyTorch's capabilities, it became evident that data generation plays a pivotal role in enhancing model accuracy. The classification approach, in this case, did not yield the desired results.
 
 ### Conclusion
 
