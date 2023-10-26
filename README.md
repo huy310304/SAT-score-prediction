@@ -18,7 +18,7 @@ SAT_score prediction project using raw neural networks constructed using Numpy a
 ## Features
 - **PyTorch Neural Network:** Developed a multi-layers neural network architecture using PyTorch for SAT score prediction.
 
-- **Data Preprocessing:** Implemented comprehensive data preprocessing techniques to handle missing values, outliers, and feature scaling.
+- **Data Preprocessing:** Implemented comprehensive data preprocessing techniques to handle missing values, outliers, and feature scaling such as binary splitting and Principal component analysis (PCA).
 
 - **Hyperparameter Tuning:** Conducted 100+ hyperparameter fine-tuning to optimize the model's performance and achieve an accuracy of 90%.
 
