@@ -67,7 +67,7 @@ In the pursuit of predicting SAT scores based on GPA and other factors, rigorous
 
 #### Initial Model Exploration
 
-The initial phase of the project involved training a neural network model from scratch. The results of this exploration are illustrated in the following plot:
+The initial phase of the project involved training a neural network model from scratch (see [Initial Model Setup](./sat_score_scratch/). The results of this exploration are illustrated in the following plot:
 
 <img src="plotting_results/sat_regression_frame_plot.png" width="600"/>
 
