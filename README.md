@@ -20,7 +20,7 @@ SAT_score prediction project using raw neural networks constructed using Numpy a
 
 - **Data Preprocessing:** Implemented comprehensive data preprocessing techniques such as binary splitting and Principal component analysis (PCA) to handle missing values, outliers, and feature scaling.
 
-- **Hyperparameter Tuning and Model Design:** Conducted 100+ hyperparameter fine-tuning and trying different combinations of neural network models, loss function, optimizer, and learning rate scheduler to optimize the model's performance and achieve an accuracy of 90% (see [Final Regression Model](regression/sat_regression_final.py)).
+- **Hyperparameter Tuning and Model Design:** Conducted 100+ hyperparameter fine-tuning and trying different combinations of neural network models, loss function, optimizer, and learning rate scheduler to optimize the model's performance and achieve an accuracy of 90% (see [final regression model](regression/sat_regression_final.py)).
 
 - **Advanced Activation Functions:** Utilized advanced activation functions, such as Leaky ReLU, to enhance model training and convergence.
 
