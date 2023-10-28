@@ -6,7 +6,7 @@ The initial phase of the project involved training a neural network model from s
 
 ### Training and Results
 
-- **Training Process:** The initial model was trained using a dataset that included SAT scores and related input features in `data`(../data/), with GPA being a primary focus.
+- **Training Process:** The initial model was trained using a dataset that included SAT scores and related input features in [`data`](../data/), with GPA being a primary focus.
 
 - **Promising Potential:** The results of this initial training phase were highly promising. The model exhibited significant potential, achieving an accuracy of approximately 65% after 30 epochs of training. This marked the foundation upon which subsequent optimizations and enhancements were built.
 
