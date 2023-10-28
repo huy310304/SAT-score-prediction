@@ -66,9 +66,6 @@ In the pursuit of predicting SAT scores based on GPA and other factors, rigorous
 ### [Initial Model Exploration](./SAT_score_scratch/)
 
 The initial phase of the project involved training a neural network model from scratch using NumPy, achieving an accuracy of 65% after 30 epochs of training. This marked the foundation on which subsequent optimizations and enhancements were built.
-The results of this exploration are illustrated in the following plot:
-
-<img src="plotting_results/sat_regression_frame_plot.png" width="600"/>
 
 ### Regression Models
 #### Optimized Model Achievement
