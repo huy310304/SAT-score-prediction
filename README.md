@@ -63,9 +63,7 @@ Before you begin, ensure you have met the following requirements:
 
 In the pursuit of predicting SAT scores based on GPA and other factors, rigorous experimentation and analysis were conducted. All model runs were performed with a consistent training setup of 200 epochs, capturing valuable insights into the convergence, accuracy, and performance over time.
 
-### Regression Models
-
-#### [Initial Model Exploration](./SAT_score_scratch/)
+### [Initial Model Exploration](./SAT_score_scratch/)
 
 The initial phase of the project involved training a neural network model from scratch. The results of this exploration are illustrated in the following plot:
 
@@ -73,6 +71,7 @@ The initial phase of the project involved training a neural network model from s
 
 The initial model exhibited promising potential, achieving an accuracy of 65% after 30 epochs of training. This marked the foundation on which subsequent optimizations and enhancements were built.
 
+### Regression Models
 #### Optimized Model Achievement
 
 Building upon the insights gained from the initial model, an iterative process of fine-tuning and optimization was embarked upon. By meticulously applying advanced activation functions, dropout regularization, and learning rate reduction strategies, the model's accuracy and convergence were substantially improved. The optimized model's performance is demonstrated below:
