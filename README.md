@@ -12,7 +12,7 @@
 
 ## Overview
 
-SAT_score prediction project using raw neural networks constructed using Numpy and PyTorch with both regression and classification methods. This project aims to predict SAT scores based on GPA and other factors using a machine learning model built with the PyTorch framework. The model utilizes a neural network architecture to make accurate predictions and has been fine-tuned to achieve high accuracy and fast convergence.
+SAT Score Prediction Project using raw neural networks constructed using Numpy and PyTorch with both regression and classification methods. This project aims to predict SAT scores based on GPA and other factors using a machine learning model built with the PyTorch framework. The model utilizes a neural network architecture to make accurate predictions and has been fine-tuned to achieve high accuracy and fast convergence.
 
 
 ## Features
@@ -65,11 +65,10 @@ In the pursuit of predicting SAT scores based on GPA and other factors, rigorous
 
 ### [Initial Model Exploration](./SAT_score_scratch/)
 
-The initial phase of the project involved training a neural network model from scratch. The results of this exploration are illustrated in the following plot:
+The initial phase of the project involved training a neural network model from scratch using NumPy, achieving an accuracy of 65% after 30 epochs of training. This marked the foundation on which subsequent optimizations and enhancements were built.
+The results of this exploration are illustrated in the following plot:
 
 <img src="plotting_results/sat_regression_frame_plot.png" width="600"/>
-
-The initial model exhibited promising potential, achieving an accuracy of 65% after 30 epochs of training. This marked the foundation on which subsequent optimizations and enhancements were built.
 
 ### Regression Models
 #### Optimized Model Achievement
