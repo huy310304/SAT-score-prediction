@@ -65,7 +65,7 @@ In the pursuit of predicting SAT scores based on GPA and other factors, rigorous
 
 ### [Initial Model Exploration](./SAT_score_scratch/)
 
-The initial phase of the project involved training a neural network model from scratch using NumPy, achieving an accuracy of 65% after 30 epochs of training. 
+The initial phase of the project involved training a neural network model from scratch using NumPy.
 
 ### Regression Models
 #### Optimized Model Achievement
