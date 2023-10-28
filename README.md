@@ -68,7 +68,7 @@ In the pursuit of predicting SAT scores based on GPA and other factors, rigorous
 The initial phase of the project involved training a neural network model from scratch using NumPy.
 
 ### [2. Regression Models](./regression/)
-Optimized Neural Network Model Achieves 90% Accuracy for SAT Score Prediction with Advanced Techniques and Enhanced Data Preprocessing
+Optimized Neural Network Model Achieves 90% Accuracy with Advanced Techniques and Enhanced Data Preprocessing
 
 ### Classification Models
 
