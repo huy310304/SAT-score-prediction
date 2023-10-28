@@ -2,7 +2,7 @@
 
 The initial phase of the project involved training a neural network model from scratch for SAT score prediction. The results and findings from this initial exploration phase are detailed below.
 
-<img src="plotting_results/sat_regression_frame_plot.png" width="600"/>
+<img src="../plotting_results/sat_regression_frame_plot.png" width="600"/>
 
 ### Training and Results
 
