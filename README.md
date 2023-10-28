@@ -58,7 +58,6 @@ Before you begin, ensure you have met the following requirements:
 
 ### `regression`: regression models with multiple data preprocessing techniques
 
-
 ## Results Discussion
 
 In the pursuit of predicting SAT scores based on GPA and other factors, rigorous experimentation and analysis were conducted. All model runs were performed with a consistent training setup of 200 epochs, capturing valuable insights into the convergence, accuracy, and performance over time.
@@ -68,23 +67,10 @@ In the pursuit of predicting SAT scores based on GPA and other factors, rigorous
 The initial phase of the project involved training a neural network model from scratch using NumPy.
 
 ### [2. Regression Models](./regression/)
-Optimized **Regression** Neural Network Model Achieves 90% Accuracy with Advanced Techniques and Enhanced Data Preprocessing.
+Optimized **Regression** Neural Network Models Achieving 90% Accuracy with Advanced Techniques and Enhanced Data Preprocessing.
 
 ### [3. Classification Models](./classification/)
-
-#### Classification with Binary Splitting
-
-In an attempt to classify SAT scores into 12 brackets using the binary splitting technique, a model was trained and evaluated. The results, as illustrated in the plot below, demonstrate a general improvement in accuracy over time. However, concerns arise regarding overfitting as the validation loss steadily increases.
-
-<img src="plotting_results/sat_classification_plot.png" width="600"/>
-
-#### Classification with Binary Splitting and PCA
-
-To mitigate the overfitting observed in the previous classification model, the PCA technique was applied in combination with binary splitting. While overfitting was reduced, the accuracy remained relatively constant, hovering around 60%.
-
-<img src="plotting_results/sat_classification_pca_plot.png" width="600"/>
-
-Despite utilizing classification techniques and PyTorch's capabilities, it became evident that data generation plays a pivotal role in enhancing model accuracy. The classification approach, in this case, did not yield the desired results.
+Optimized **Classification** Neural Network Models with Advanced Techniques and Enhanced Data Preprocessing for comparison.
 
 ### Conclusion
 
