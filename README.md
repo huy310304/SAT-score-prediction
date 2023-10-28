@@ -63,11 +63,11 @@ Before you begin, ensure you have met the following requirements:
 
 In the pursuit of predicting SAT scores based on GPA and other factors, rigorous experimentation and analysis were conducted. All model runs were performed with a consistent training setup of 200 epochs, capturing valuable insights into the convergence, accuracy, and performance over time.
 
-### [Initial Model Exploration](./SAT_score_scratch/)
+### 1. [Initial Model Exploration](./SAT_score_scratch/)
 
 The initial phase of the project involved training a neural network model from scratch using NumPy.
 
-### Regression Models(./regression)
+### 2. [Regression Models](./regression)
 Optimized Neural Network Model Achieves 90% Accuracy for SAT Score Prediction with Advanced Techniques and Enhanced Data Preprocessing
 
 ### Classification Models
