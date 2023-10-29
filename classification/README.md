@@ -1,6 +1,6 @@
 # Classification with Binary Splitting
 
-In an attempt to classify SAT scores into 12 brackets using the binary splitting technique, a model was trained and evaluated. The results, as illustrated in the plot below, demonstrate a general improvement in accuracy over time. However, concerns arise regarding overfitting as the validation loss steadily increases.
+In an attempt to classify SAT scores into 12 brackets and using the binary splitting technique for `hsize` and `hsrank`, a model was trained and evaluated. The results, as illustrated in the plot below, demonstrate a general improvement in accuracy over time. However, concerns arise regarding overfitting as the validation loss steadily increases.
 
 <img src="../plotting_results/sat_classification_plot.png" width="600"/>
 
