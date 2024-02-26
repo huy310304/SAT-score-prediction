@@ -1,7 +1,6 @@
 # SAT Score Prediction Project
 
-## TODO
-- Clean stuff, save model and create UI, deploy w Docker to actually host, run, save and compare results. 
+## TODO: Clean stuff, save model and create UI, deploy w Docker to actually host, run, save and compare results. 
 
 ## Table of Contents
 
